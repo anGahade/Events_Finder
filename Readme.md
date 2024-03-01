@@ -16,7 +16,7 @@ Before getting started, ensure you have the following installed:
 1. **Clone the Repository:**
 
     ```shell
-    git clone https://github.com/anGahade/Event_finder.git
+    git clone https://github.com/anGahade/Events_Finder.git
     ```
 
 2. **Set Environment Variables:**
